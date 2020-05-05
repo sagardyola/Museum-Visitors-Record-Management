@@ -1,0 +1,20 @@
+C:\Users\dyola\source\repos\Museum\Museum\bin\Debug\Museum.exe.config
+C:\Users\dyola\source\repos\Museum\Museum\bin\Debug\Museum.exe
+C:\Users\dyola\source\repos\Museum\Museum\bin\Debug\Museum.pdb
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.csprojAssemblyReference.cache
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.Form1.resources
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.Properties.Resources.resources
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.csproj.GenerateResource.cache
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.csproj.CoreCompileInputs.cache
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.exe
+C:\Users\dyola\source\repos\Museum\Museum\obj\Debug\Museum.pdb
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.Form1.resources
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.Properties.Resources.resources
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.csproj.GenerateResource.cache
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.csproj.CoreCompileInputs.cache
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.exe
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.pdb
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\bin\Debug\Museum.exe.config
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\bin\Debug\Museum.exe
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\bin\Debug\Museum.pdb
+E:\SAGAR_Workspace\Visual Studio\source\repos\Museum\Museum\obj\Debug\Museum.csprojAssemblyReference.cache
